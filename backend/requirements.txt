@@ -1,0 +1,6 @@
+langchain==0.0.180
+fastapi[all]
+unstructured==0.7.8
+google-cloud-aiplatform==1.28.1
+google-cloud-bigtable==2.18.1
+google-cloud-storage==2.9.0
